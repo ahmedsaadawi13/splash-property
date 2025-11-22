@@ -1,0 +1,45 @@
+# FILE: /.gitignore
+# SplashProperty - Multi-tenant Real Estate Management SaaS
+
+# Environment configuration
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+storage/logs/*.log
+*.log
+
+# Uploads
+storage/uploads/*
+!storage/uploads/.gitkeep
+
+# Cache
+cache/*
+!cache/.gitkeep
+
+# Temporary files
+tmp/*
+temp/*
+
+# Composer (if used)
+/vendor/
+composer.lock
+
+# NPM (if used)
+node_modules/
+package-lock.json
+
+# Backups
+*.sql.gz
+*.sql.bak
+backup/
