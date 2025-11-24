@@ -480,7 +480,7 @@ Proprietary - All Rights Reserved
 For support and inquiries:
 - Email: ahmed.sha3ban13@gmail.com
 - Documentation: https://docs.splashproperty.com
-- GitHub Issues: https://github.com/yourusername/SplashProperty/issues
+- GitHub Issues: https://github.com/ahmedsaadawi13/SplashProperty/issues
 
 ## Credits
 
