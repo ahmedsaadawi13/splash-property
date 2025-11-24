@@ -55,7 +55,7 @@ A complete, production-ready multi-tenant SaaS platform for real estate unit and
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SplashProperty.git
+git clone https://github.com/ahmedsaadawi13/SplashProperty.git
 cd SplashProperty
 ```
 
@@ -478,7 +478,7 @@ Proprietary - All Rights Reserved
 ## Support
 
 For support and inquiries:
-- Email: support@splashproperty.com
+- Email: ahmed.sha3ban13@gmail.com
 - Documentation: https://docs.splashproperty.com
 - GitHub Issues: https://github.com/yourusername/SplashProperty/issues
 
